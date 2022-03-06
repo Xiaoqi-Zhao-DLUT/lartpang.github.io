@@ -14,6 +14,7 @@
 ## 🚀 News
 
 - 1 paper accepted in CVPR 2022 (25.33%[2067/8161])
+  - ZoomNet [[Paper](https://github.com/lartpang/ZoomNet/releases/download/v0.0.1/zoomnet-arxiv.pdf)] [[Code](https://github.com/lartpang/ZoomNet)]
 - 1 paper accepted in AAAI 2022 (~15%[1349/9020]).
 - 1 paper accepted in ACMMM 2021 (1 Oral ~9%[179/1942]).
 - 3 paper accepted in ECCV 2020 (1 Oral ~2%[104/5025]).
